@@ -1,0 +1,4 @@
+.container{max-width: 100% !important;}
+.product-listing a, .cart-listing h3 a.product-title{  text-decoration: none!important;}
+
+.update-cart-btn{float: right;}
